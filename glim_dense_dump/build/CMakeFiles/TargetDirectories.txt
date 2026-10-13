@@ -1,0 +1,3 @@
+/plugin/build/CMakeFiles/glim_dense_dump.dir
+/plugin/build/CMakeFiles/edit_cache.dir
+/plugin/build/CMakeFiles/rebuild_cache.dir
